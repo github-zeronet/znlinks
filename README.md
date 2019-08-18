@@ -7,3 +7,4 @@ related:
 
 [HelloZeroNet/ZeroNet Issue: Embedding other sites with iframes #565](https://github.com/HelloZeroNet/ZeroNet/issues/565)
 
+[HelloZeroNet/ZeroNet Issue: Tor Always Mode Sometimes Hangs #1228](https://github.com/HelloZeroNet/ZeroNet/issues/1228)
