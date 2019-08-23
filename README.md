@@ -3,7 +3,7 @@ various useful links to ZN
 
 [HelloZeroNet/ZeroNet Issue: Allow a site to bust out of IFrame #2154](https://github.com/HelloZeroNet/ZeroNet/issues/2154) (User: github-zeronet, Closed)
 
-[Allow zite loading outside iframe (for zite owners) #1262 ](https://github.com/HelloZeroNet/ZeroNet/issues/2154) (User: github-zeronet, Closed)
+[Allow zite loading outside iframe (for zite owners) #1262 ](https://github.com/HelloZeroNet/ZeroNet/issues/2154) (User: github-zeronet, )
 
 [Proposal: Reverse iframe #2169](https://github.com/HelloZeroNet/ZeroNet/issues/2169) (User: imachug, Open)
 
